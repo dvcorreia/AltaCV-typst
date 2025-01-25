@@ -1,13 +1,7 @@
-# [unreleased](https://github.com/<author>/<my-package>/releases/tag/<the-tag>)
+# [v0.1.0](ttps://github.com/dvcorreia/AltaCV-typst/releases/tag/v0.1.0)
+
 ## Added
 
 ## Removed
 
 ## Changed
-
-## Migration Guide from v0.1.X
-
----
-
-# [v0.1.0](https://github.com/<author>/<my-package>/releases/tag/v0.1.0)
-Initial Release
