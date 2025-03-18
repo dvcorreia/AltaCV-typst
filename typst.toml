@@ -1,0 +1,26 @@
+# for a description of available keys, see https://github.com/typst/packages/?tab=readme-ov-file#package-format
+
+[package]
+name = "altacv"
+version = "0.1.0"
+entrypoint = "src/main.typ"
+authors = ["Diogo Correia <dv_correia@hotmail.com>"]
+license = "LPPL-1.3c"
+description = "Typst port of liantze's AltaCV"
+homepage = "https://github.com/dvcorreia/AltaCV-typst"
+repository = "https://github.com/dvcorreia/AltaCV-typst"
+keywords = ["cv", "resume", "alta", "cv"]
+categories = ["cv"]
+exclude = [
+	".github",
+	"docs",
+	"scripts",
+	"tests",
+	".typstignore",
+	"Justfile",
+]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"
